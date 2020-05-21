@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj": {}
+    "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj": {}
   },
   "projects": {
-    "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj": {
-      "version": "1.0.3.12",
+    "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj": {
+      "version": "0.0.1",
       "restore": {
-        "projectUniqueName": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj",
-        "projectName": "SocketIOClient",
-        "projectPath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj",
+        "projectUniqueName": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj",
+        "projectName": "SocketIOClientWithSysWebsockets",
+        "projectPath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/obj/",
+        "outputPath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"
@@ -50,9 +50,9 @@
               "target": "Package",
               "version": "[4.3.0, )"
             },
-            "Websocket.Client": {
+            "System.Reactive": {
               "target": "Package",
-              "version": "[4.2.3, )"
+              "version": "[4.4.1, )"
             }
           },
           "imports": [

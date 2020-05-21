@@ -1139,7 +1139,7 @@
           "lib/netstandard1.3/System.ObjectModel.dll": {}
         }
       },
-      "System.Reactive/4.3.2": {
+      "System.Reactive/4.4.1": {
         "type": "package",
         "compile": {
           "lib/netcoreapp3.0/_._": {}
@@ -1735,19 +1735,19 @@
           "lib/netstandard2.0/Websocket.Client.dll": {}
         }
       },
-      "SocketIOClient/1.0.3.12": {
+      "SocketIOClientWithSysWebsockets/0.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
           "System.Collections": "4.3.0",
-          "Websocket.Client": "4.2.3"
+          "System.Reactive": "4.4.1"
         },
         "compile": {
-          "bin/placeholder/SocketIOClient.dll": {}
+          "bin/placeholder/SocketIOClientWithSysWebsockets.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SocketIOClient.dll": {}
+          "bin/placeholder/SocketIOClientWithSysWebsockets.dll": {}
         }
       }
     }
@@ -4287,10 +4287,10 @@
         "system.objectmodel.nuspec"
       ]
     },
-    "System.Reactive/4.3.2": {
-      "sha512": "WhGkScPWxw2pp7UwRW8M1OvYZ3WUDPC2wJ0aiuaB4KRD3bt4wLkgHgYnOUu87WRhsurvv5LN0E63iWOEza2o8g==",
+    "System.Reactive/4.4.1": {
+      "sha512": "iSTPeWR9HJhGoNV4WhVlvofuiTjpok1i4E3LPgMdbMqf3jKhFlT9HAlO32lb52NLppWC/4dZQFfUzTytvyXBmw==",
       "type": "package",
-      "path": "system.reactive/4.3.2",
+      "path": "system.reactive/4.4.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4309,7 +4309,7 @@
         "lib/uap10.0/System.Reactive.dll",
         "lib/uap10.0/System.Reactive.pri",
         "lib/uap10.0/System.Reactive.xml",
-        "system.reactive.4.3.2.nupkg.sha512",
+        "system.reactive.4.4.1.nupkg.sha512",
         "system.reactive.nuspec"
       ]
     },
@@ -6053,7 +6053,7 @@
         "websocket.client.nuspec"
       ]
     },
-    "SocketIOClient/1.0.3.12": {
+    "SocketIOClientWithSysWebsockets/0.0.1": {
       "type": "project",
       "path": "../SocketIOClient/SocketIOClient.csproj",
       "msbuildProject": "../SocketIOClient/SocketIOClient.csproj"
@@ -6065,7 +6065,7 @@
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "Moq >= 4.13.1",
-      "SocketIOClient >= 1.0.3.12",
+      "SocketIOClientWithSysWebsockets >= 0.0.1",
       "Websocket.Client >= 4.2.3"
     ]
   },
@@ -6075,11 +6075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient.Test/SocketIOClient.Test.csproj",
+      "projectUniqueName": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient.Test/SocketIOClient.Test.csproj",
       "projectName": "SocketIOClient.Test",
-      "projectPath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient.Test/SocketIOClient.Test.csproj",
+      "projectPath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient.Test/SocketIOClient.Test.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient.Test/obj/",
+      "outputPath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"
@@ -6093,8 +6093,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj": {
-              "projectPath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj"
+            "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj": {
+              "projectPath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj"
             }
           }
         }
@@ -6144,7 +6144,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100-preview1-014459/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
       }
     }
   }

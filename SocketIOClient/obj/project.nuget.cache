@@ -1,21 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "ZbXsjjTZjMvQYcU1CvUw7fvYO4eXqfFM14B50YnOyXmn+psvVfuipiL6SoXQdZM7e/RRJrYTD5ccYDUS5GX32A==",
+  "dgSpecHash": "Dx3XnENx3Z1AiJU4QXSBS3ub+DYFEHwo+0TooErhNJcxlXJu2u7HesiB/MUpkk0ND8s6sceWzTU81ImMVv4FvA==",
   "success": true,
-  "projectFilePath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj",
+  "projectFilePath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/mac/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/mac/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
-    "/Users/mac/.nuget/packages/system.reactive/4.3.2/system.reactive.4.3.2.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.reactive/4.4.1/system.reactive.4.4.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
-    "/Users/mac/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.3/system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
     "/Users/mac/.nuget/packages/system.runtime.interopservices.windowsruntime/4.3.0/system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
-    "/Users/mac/.nuget/packages/system.threading.channels/4.7.0/system.threading.channels.4.7.0.nupkg.sha512",
-    "/Users/mac/.nuget/packages/system.threading.tasks.extensions/4.5.3/system.threading.tasks.extensions.4.5.3.nupkg.sha512",
-    "/Users/mac/.nuget/packages/websocket.client/4.2.3/websocket.client.4.2.3.nupkg.sha512"
+    "/Users/mac/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

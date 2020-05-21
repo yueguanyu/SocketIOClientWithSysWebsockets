@@ -7,3 +7,12 @@
 /Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/obj/Debug/netstandard2.0/SocketIOClient.dll
 /Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/obj/Debug/netstandard2.0/SocketIOClient.pdb
 /Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/obj/Debug/netstandard2.0/SocketIOClient.csproj.CoreCompileInputs.cache
+/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/obj/Debug/netstandard2.0/SocketIOClient.csprojAssemblyReference.cache
+/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/obj/Debug/netstandard2.0/SocketIOClient.AssemblyInfoInputs.cache
+/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/obj/Debug/netstandard2.0/SocketIOClient.AssemblyInfo.cs
+/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/obj/Debug/netstandard2.0/SocketIOClient.csproj.CoreCompileInputs.cache
+/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/bin/Debug/netstandard2.0/SocketIOClientWithSysWebsockets.deps.json
+/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/bin/Debug/netstandard2.0/SocketIOClientWithSysWebsockets.dll
+/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/bin/Debug/netstandard2.0/SocketIOClientWithSysWebsockets.pdb
+/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/obj/Debug/netstandard2.0/SocketIOClientWithSysWebsockets.dll
+/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/obj/Debug/netstandard2.0/SocketIOClientWithSysWebsockets.pdb

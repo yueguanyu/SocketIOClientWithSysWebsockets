@@ -8,9 +8,9 @@
     ".NETCoreApp,Version=v3.1": {
       "SocketIOClient.Sample/1.0.0": {
         "dependencies": {
-          "SocketIOClient": "1.0.3.12",
+          "SocketIOClientWithSysWebsockets": "0.0.1",
           "Websocket.Client": "4.2.3",
-          "System.Reactive.Reference": "4.3.0.0"
+          "System.Reactive.Reference": "4.4.0.0"
         },
         "runtime": {
           "SocketIOClient.Sample.dll": {}
@@ -33,7 +33,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "System.Reactive/4.3.2": {},
+      "System.Reactive/4.4.1": {},
       "System.Runtime/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -43,7 +43,7 @@
       "System.Threading.Channels/4.7.0": {},
       "Websocket.Client/4.2.3": {
         "dependencies": {
-          "System.Reactive": "4.3.2",
+          "System.Reactive": "4.4.1",
           "System.Threading.Channels": "4.7.0"
         },
         "runtime": {
@@ -53,21 +53,21 @@
           }
         }
       },
-      "SocketIOClient/1.0.3.12": {
+      "SocketIOClientWithSysWebsockets/0.0.1": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
           "System.Collections": "4.3.0",
-          "Websocket.Client": "4.2.3"
+          "System.Reactive": "4.4.1"
         },
         "runtime": {
-          "SocketIOClient.dll": {}
+          "SocketIOClientWithSysWebsockets.dll": {}
         }
       },
-      "System.Reactive.Reference/4.3.0.0": {
+      "System.Reactive.Reference/4.4.0.0": {
         "runtime": {
           "System.Reactive.dll": {
-            "assemblyVersion": "4.3.0.0",
-            "fileVersion": "4.3.2.55399"
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.1.57983"
           }
         }
       }
@@ -107,12 +107,12 @@
       "path": "system.collections/4.3.0",
       "hashPath": "system.collections.4.3.0.nupkg.sha512"
     },
-    "System.Reactive/4.3.2": {
+    "System.Reactive/4.4.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-WhGkScPWxw2pp7UwRW8M1OvYZ3WUDPC2wJ0aiuaB4KRD3bt4wLkgHgYnOUu87WRhsurvv5LN0E63iWOEza2o8g==",
-      "path": "system.reactive/4.3.2",
-      "hashPath": "system.reactive.4.3.2.nupkg.sha512"
+      "sha512": "sha512-iSTPeWR9HJhGoNV4WhVlvofuiTjpok1i4E3LPgMdbMqf3jKhFlT9HAlO32lb52NLppWC/4dZQFfUzTytvyXBmw==",
+      "path": "system.reactive/4.4.1",
+      "hashPath": "system.reactive.4.4.1.nupkg.sha512"
     },
     "System.Runtime/4.3.0": {
       "type": "package",
@@ -135,12 +135,12 @@
       "path": "websocket.client/4.2.3",
       "hashPath": "websocket.client.4.2.3.nupkg.sha512"
     },
-    "SocketIOClient/1.0.3.12": {
+    "SocketIOClientWithSysWebsockets/0.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "System.Reactive.Reference/4.3.0.0": {
+    "System.Reactive.Reference/4.4.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

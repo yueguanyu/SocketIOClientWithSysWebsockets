@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient.Test/SocketIOClient.Test.csproj": {}
+    "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient.Test/SocketIOClient.Test.csproj": {}
   },
   "projects": {
-    "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient.Test/SocketIOClient.Test.csproj": {
+    "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient.Test/SocketIOClient.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient.Test/SocketIOClient.Test.csproj",
+        "projectUniqueName": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient.Test/SocketIOClient.Test.csproj",
         "projectName": "SocketIOClient.Test",
-        "projectPath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient.Test/SocketIOClient.Test.csproj",
+        "projectPath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient.Test/SocketIOClient.Test.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient.Test/obj/",
+        "outputPath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient.Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj": {
-                "projectPath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj"
+              "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj": {
+                "projectPath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj"
               }
             }
           }
@@ -76,18 +76,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100-preview1-014459/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj": {
-      "version": "1.0.3.12",
+    "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj": {
+      "version": "0.0.1",
       "restore": {
-        "projectUniqueName": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj",
-        "projectName": "SocketIOClient",
-        "projectPath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/SocketIOClient.csproj",
+        "projectUniqueName": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj",
+        "projectName": "SocketIOClientWithSysWebsockets",
+        "projectPath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/SocketIOClient.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/obj/",
+        "outputPath": "/Users/mac/develop/gitstore/csharp/SocketIOClientWithSysWebsockets/SocketIOClient/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"
@@ -126,9 +126,9 @@
               "target": "Package",
               "version": "[4.3.0, )"
             },
-            "Websocket.Client": {
+            "System.Reactive": {
               "target": "Package",
-              "version": "[4.2.3, )"
+              "version": "[4.4.1, )"
             }
           },
           "imports": [
@@ -141,7 +141,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100-preview1-014459/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
         }
       }
     }
