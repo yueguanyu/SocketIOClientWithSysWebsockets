@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFWzXBNc4F4vA8WRDLsdKkocHcGDtbwZgndpTjfoOfFRXRG7AGsYvCU4vT1GvLjTnCPf5RaVBuXr7ystBtj5fw==",
+  "success": true,
+  "projectFilePath": "/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient.Sample/SocketIOClient.Sample.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.reactive/4.3.2/system.reactive.4.3.2.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/system.threading.channels/4.7.0/system.threading.channels.4.7.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/websocket.client/4.2.3/websocket.client.4.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

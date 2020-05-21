@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SocketIOClient</id>
+    <version>1.0.3.12</version>
+    <authors>HeroWong</authors>
+    <owners>HeroWong</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/doghappy/socket.io-client-csharp</projectUrl>
+    <description>Provide a simple way to connect to the Socket.IO server using C#</description>
+    <tags>socket.io-client</tags>
+    <repository type="github" url="https://github.com/doghappy/socket.io-client-csharp" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Collections" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="Websocket.Client" version="4.2.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/SocketIOClient/bin/Debug/netstandard2.0/SocketIOClient.dll" target="lib/netstandard2.0/SocketIOClient.dll" />
+    <file src="/Users/mac/develop/gitstore/csharp/test-code-socket.io-client-csharp/LICENSE" target="LICENSE" />
+  </files>
+</package>

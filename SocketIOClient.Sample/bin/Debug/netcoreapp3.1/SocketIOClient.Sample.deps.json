@@ -1,0 +1,149 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SocketIOClient.Sample/1.0.0": {
+        "dependencies": {
+          "SocketIOClient": "1.0.3.12",
+          "Websocket.Client": "4.2.3",
+          "System.Reactive.Reference": "4.3.0.0"
+        },
+        "runtime": {
+          "SocketIOClient.Sample.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "System.Collections/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Reactive/4.3.2": {},
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Threading.Channels/4.7.0": {},
+      "Websocket.Client/4.2.3": {
+        "dependencies": {
+          "System.Reactive": "4.3.2",
+          "System.Threading.Channels": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Websocket.Client.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "SocketIOClient/1.0.3.12": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.Collections": "4.3.0",
+          "Websocket.Client": "4.2.3"
+        },
+        "runtime": {
+          "SocketIOClient.dll": {}
+        }
+      },
+      "System.Reactive.Reference/4.3.0.0": {
+        "runtime": {
+          "System.Reactive.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.2.55399"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocketIOClient.Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.Collections/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
+      "path": "system.collections/4.3.0",
+      "hashPath": "system.collections.4.3.0.nupkg.sha512"
+    },
+    "System.Reactive/4.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WhGkScPWxw2pp7UwRW8M1OvYZ3WUDPC2wJ0aiuaB4KRD3bt4wLkgHgYnOUu87WRhsurvv5LN0E63iWOEza2o8g==",
+      "path": "system.reactive/4.3.2",
+      "hashPath": "system.reactive.4.3.2.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Threading.Channels/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gdOOXBhtt2UpTxYJm1DRmoqNfYg5ypvhzhVt0vxKhzxXFjS81r8yIOSFsJYLRa1Jc14GBAqCnjxJstO3zBN7gg==",
+      "path": "system.threading.channels/4.7.0",
+      "hashPath": "system.threading.channels.4.7.0.nupkg.sha512"
+    },
+    "Websocket.Client/4.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7IKizfhXfZHXuDx5igZ0+yvssYC9Cxaxu//zNrJDoZYyAAEsBDrbF6uHPUGxV2q86QExfcf4tTPAN4XfMh09kw==",
+      "path": "websocket.client/4.2.3",
+      "hashPath": "websocket.client.4.2.3.nupkg.sha512"
+    },
+    "SocketIOClient/1.0.3.12": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reactive.Reference/4.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
