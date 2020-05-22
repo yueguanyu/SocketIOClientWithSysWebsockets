@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 using SocketIOClient.Arguments;
 using SocketIOClient.Parsers;
 namespace EngineIOClient {
-    public class EngineIO {
+    public class EngineIO : Events.Events {
 
         protected const int ReceiveChunkSize = 1024;
         protected const int SendChunkSize = 1024;
